@@ -1,5 +1,5 @@
 安卓手机搭建Alist网盘程序<br>
-Alist for phone<br>
+Alist仓库地址:https://github.com/alist-org/alist<br>
 aarch64架构处理器</br>
 使用magisk刷入该模块<br>
 本地地址:http://127.0.0.1:5244<br>
