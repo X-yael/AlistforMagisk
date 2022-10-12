@@ -1,0 +1,32 @@
+{
+  "force": false,
+  "address": "0.0.0.0",
+  "port": 5244,
+  "jwt_secret": "gs8032l9Z2D2xmmF",
+  "cdn": "",
+  "database": {
+    "type": "sqlite3",
+    "host": "",
+    "port": 0,
+    "user": "",
+    "password": "",
+    "name": "",
+    "db_file": "/data/adb/modules/Alist/data/data.db",
+    "table_prefix": "x_",
+    "ssl_mode": ""
+  },
+  "scheme": {
+    "https": false,
+    "cert_file": "",
+    "key_file": ""
+  },
+  "temp_dir": "/data/adb/modules/Alist/data/temp",
+  "log": {
+    "enable": true,
+    "name": "/data/adb/modules/Alist/log/log.log",
+    "max_size": 10,
+    "max_backups": 5,
+    "max_age": 28,
+    "compress": false
+  }
+}
